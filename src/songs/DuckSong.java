@@ -19,7 +19,7 @@ public class DuckSong {
             System.out.println("Over the hill and far away.");
             System.out.println("Mother duck said quack quack quack quack,");
             if (i == 1) {
-                System.out.println("And all of the 5 little ducks came back.");
+                System.out.println("And all of the little ducks came back.");
             } else {
                 int newNum = i-1;
                 if (newNum == 1) {
